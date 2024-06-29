@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "§9Blue Dye §fTo §4Switzer§fland",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 99
+    }
+  }
+}
